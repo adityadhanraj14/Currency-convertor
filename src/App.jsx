@@ -22,7 +22,7 @@ function App() {
     setConvertedAmount(amount)
   }
   const convert = () => { setConvertedAmount(amount/allCurrencyData[from] * allCurrencyData[to]) }
-  const BackgroundImage = "https://t4.ftcdn.net/jpg/05/45/42/81/360_F_545428173_uyYWJoR9n5uJFYIWfDa2C49AzIECcU20.jpg"
+  const BackgroundImage = "https://t3.ftcdn.net/jpg/04/34/58/54/360_F_434585463_zpdtTpTEbqQFfsp6RVEW6IIxEM9dHf86.jpg"
 
   return (
     <>
